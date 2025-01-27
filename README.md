@@ -1,6 +1,6 @@
 ---
 
-# 📝 **Languages: [English](https://github.com/Hjbiki/Hoi4-ArabicReshaper/blob/main/README_en.md) | [العربية](https://github.com/Hjbiki/Hoi4-ArabicReshaper/blob/main/README.md)**
+# 📝 **اللغات: [English](https://github.com/Hjbiki/Hoi4-ArabicReshaper/blob/main/README_en.md) | [العربية](https://github.com/Hjbiki/Hoi4-ArabicReshaper/blob/main/README.md)**
 
 ---
 

@@ -9,6 +9,10 @@
 3️⃣ **`arabic_reshaper_app.py`**: Reshape Arabic text for better compatibility.  
 4️⃣ **`rtl.py`**: Adjust text alignment to **Right-to-Left**.
 
+**`arabic_nt_reshaper.py`**: Reshape Arabic text that ends in #NT!
+
+**`rtl_nt.py`**: Format right-to-left text that ends in #NT!
+
 ### 📦 **Requirements**:
 - **Python 3.7+**  
 - Install dependencies:
